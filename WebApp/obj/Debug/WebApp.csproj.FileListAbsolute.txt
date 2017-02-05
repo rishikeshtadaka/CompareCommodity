@@ -1,0 +1,12 @@
+D:\RishikeshBackup\SF\CompareCommodity\WebApp\WebApp\WebApp\bin\WebApp.dll.config
+D:\RishikeshBackup\SF\CompareCommodity\WebApp\WebApp\WebApp\bin\WebApp.dll
+D:\RishikeshBackup\SF\CompareCommodity\WebApp\WebApp\WebApp\bin\WebApp.pdb
+D:\RishikeshBackup\SF\CompareCommodity\WebApp\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\RishikeshBackup\SF\CompareCommodity\WebApp\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\RishikeshBackup\SF\CompareCommodity\WebApp\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\RishikeshBackup\SF\CompareCommodity\CompareCommodity\WebApp\bin\WebApp.dll.config
+D:\RishikeshBackup\SF\CompareCommodity\CompareCommodity\WebApp\bin\WebApp.dll
+D:\RishikeshBackup\SF\CompareCommodity\CompareCommodity\WebApp\bin\WebApp.pdb
+D:\RishikeshBackup\SF\CompareCommodity\CompareCommodity\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\RishikeshBackup\SF\CompareCommodity\CompareCommodity\WebApp\obj\Debug\WebApp.dll
+D:\RishikeshBackup\SF\CompareCommodity\CompareCommodity\WebApp\obj\Debug\WebApp.pdb

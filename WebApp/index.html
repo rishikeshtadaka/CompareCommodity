@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html ng-app="compareCommodity">
+<head>
+    <title></title>
+    <link href="bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Welcome compare commodity!</h1>
+
+
+    <div ui-view class="main-container clearfix">
+
+    </div>
+    <script src="/bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="app/app.js"></script>
+    <!------------------------Controllers---------------------->
+    <script src="app/modules/auth/index.js"></script>
+    <script src="app/modules/auth/route.js"></script>
+    <script src="app/modules/auth/controllers/login.js"></script>
+    
+
+    <!-------------------------Services------------------------->
+    <script src="app/services/api/auth/login.js"></script>
+</body>
+</html>
